@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "theothershoretravel:magic_crystal"
+    }
+  },
+  "result": {
+    "item": "theothershoretravel:magic_crystal_block",
+    "count": 1
+  }
+}
