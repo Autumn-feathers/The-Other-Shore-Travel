@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "theothershoretravel:block/high_pressure_block"
+  }
+}

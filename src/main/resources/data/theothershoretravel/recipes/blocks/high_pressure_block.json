@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "theothershoretravel:high_pressure"
+    }
+  },
+  "result": {
+    "item": "theothershoretravel:high_pressure_block",
+    "count": 1
+  }
+}

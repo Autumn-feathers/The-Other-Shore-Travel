@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT License"
+
+[[mods]]
+modId="theothershoretravel"
+version="1.0.0"
+displayName="The Other Shore Travel"
+displayURL="https://github.com/Autumn-feathers/The-Other-Shore-Travel"
+logoFile="logo.png"
+authors="游京秋惜"
+description='''
+想要留住雪花。但在手心里，它只会融化的更快
+'''
+
+[[dependencies.theothershoretravel]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"

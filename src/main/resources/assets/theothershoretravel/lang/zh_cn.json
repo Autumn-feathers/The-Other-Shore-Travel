@@ -1,0 +1,16 @@
+{
+  "itemGroup.TheOtherShoreTravel": "§6|§5§l 彼岸：旅行 §6|",
+  "item.theothershoretravel.magic_crystal": "§5魔晶石§r",
+  "item.theothershoretravel.high_pressure": "§4高压魔晶石§r",
+  "item.theothershoretravel.overclocking": "§9超频魔晶石§r",
+  "item.theothershoretravel.eternity": "§6永恒魔晶石§r",
+  "item.theothershoretravel.eternal_fragments": "§6永恒魔晶石碎片§r",
+  "item.theothershoretravel.special_alloys": "§l特种合金§r",
+  "item.theothershoretravel.steel_rock_crystals": "§l钢岩结晶§r",
+  "item.theothershoretravel.ethereal_unit": "§b空灵单元§r",
+  "item.theothershoretravel.magic_crystal_wrench": "§6|§b 魔晶扳手 §6|§r",
+  "block.theothershoretravel.magic_crystal_block": "§5魔晶块§r",
+  "block.theothershoretravel.high_pressure_block": "§4高压魔晶块§r",
+  "block.theothershoretravel.overclocking_block": "§9超频魔晶块§r",
+  "block.theothershoretravel.special_alloys_block": "§b特种合金块§r"
+}

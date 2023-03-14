@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "101",
+    " 1 ",
+    " 1 "
+  ],
+  "key": {
+    "0": {
+      "item": "theothershoretravel:magic_crystal"
+    },
+    "1": {
+      "item": "theothershoretravel:special_alloys"
+    }
+  },
+  "result": {
+    "item": "theothershoretravel:magic_crystal_wrench",
+    "count": 1
+  }
+}
